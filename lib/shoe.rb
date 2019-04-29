@@ -12,4 +12,3 @@ attr_accessor :color, :material, :condition, :size
   end
 end
  
-end
