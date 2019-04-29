@@ -8,6 +8,8 @@ attr_accessor :color, :material, :condition, :size
  
   def cobble
     if Shoe.condition == "new"
+      puts "new"
+    else
     puts "Your shoe is as good as new!"
     
   end
